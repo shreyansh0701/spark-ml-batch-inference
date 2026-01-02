@@ -1,0 +1,17 @@
+# Spark output
+data/output/
+_SUCCESS
+
+# Parquet files
+*.parquet
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Docker
+*.log
+venv
